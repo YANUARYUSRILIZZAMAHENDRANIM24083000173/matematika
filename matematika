@@ -1,0 +1,18 @@
+public class Matematika {
+   public void pertambahan (int a, int b){
+        int hasil = a + b;
+        System.out.println("Hasil pertambahan : " + hasil);
+    }
+    public void perkurangan(int a, int b){
+        int hasil = a - b;
+        System.out.println("Hasil perkurangan : " + hasil);
+    }
+    public void perkalian(int a, int b){
+        int hasil = a * b;
+        System.out.println("Hasil perkurangan : " + hasil);
+    }
+    public void pembagian(int a, int b){
+        int hasil = a / b;
+        System.out.println("Hasil perkurangan : " + hasil);
+    }
+}
