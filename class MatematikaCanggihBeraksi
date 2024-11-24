@@ -1,0 +1,11 @@
+public class MatematikaCanggihBeraksi {
+    public static void main(String[] args){ 
+    Matematika hasil  = new Matematika ();
+    hasil.pertambahan(0, 0);
+    hasil.perkurangan(0, 0);
+    hasil.perkalian(0, 0);
+    hasil.pembagian(,);
+        
+    }
+    
+}
